@@ -1,0 +1,2 @@
+
+hola: str = input()
