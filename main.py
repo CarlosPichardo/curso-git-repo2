@@ -1,4 +1,5 @@
 
+# Solo usar input para presentar
 hola: str = input()
 
-print(hola)
+print("Saludos" + hola)
